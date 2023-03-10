@@ -5,4 +5,6 @@ The project will generate random Paragraph once you click on the button generate
 
 
 
-![Screenshot (307)](https://user-images.githubusercontent.com/88320958/224313894-9f4fae0c-9084-4cad-9d92-e86b8b1453bc.png)
+
+
+![Screenshot (539)](https://user-images.githubusercontent.com/88320958/224314302-cc8ba2de-3c14-4f7a-8580-550345ab96d1.png)
